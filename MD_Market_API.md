@@ -15,3 +15,5 @@ This md is the beginning of my efforts to produce HFT algorithms and implement A
 | `Search ISIN API` | search and retrieve the International Securities Identification Number (ISIN) for financial securities using the FMP ISIN API. Find key details such as company name, stock symbol, and market capitalization associated with the ISIN. |
 
 There are a myriad of APIs, which can be found at the link at the top.
+
+Next commits to readme should include most relevant apis for 3-statement, dcf, and other models

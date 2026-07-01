@@ -14,3 +14,7 @@
 - Credit Risk
 
 ### Add later : Table
+
+### focus on specific models
+
+DCF, 3-statement, options pricing, valuation
