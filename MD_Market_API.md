@@ -17,3 +17,5 @@ This md is the beginning of my efforts to produce HFT algorithms and implement A
 There are a myriad of APIs, which can be found at the link at the top.
 
 Next commits to readme should include most relevant apis for 3-statement, dcf, and other models
+
+next commit
