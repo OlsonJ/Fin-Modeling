@@ -18,3 +18,5 @@
 ### focus on specific models
 
 DCF, 3-statement, options pricing, valuation
+
+- How can AI improve the effectiveness of a financial model?
